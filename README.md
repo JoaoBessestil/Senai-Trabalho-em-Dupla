@@ -1,2 +1,2 @@
 # senai-trabalho-em-dupla
-- readme de exemplo
+- readme de exemplo funcionalidades
